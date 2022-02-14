@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "123",
+      "name": "Arsalan",
+      "salary": "60000",
+      "states": "ADDED"
+    },
+    {
+      "id": "111",
+      "name": "David",
+      "salary": "50000",
+      "states": "IN-CHECK"
+    },
+    {
+      "id": "333",
+      "name": "Michael",
+      "salary": "50000",
+      "states": "ADDED"
+    },
+    {
+      "id": "444",
+      "name": "Alessandro",
+      "salary": "60000",
+      "states": "ADDED"
+    }
+  ]
+}
